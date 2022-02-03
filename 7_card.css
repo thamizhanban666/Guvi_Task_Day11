@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Waterfall&display=swap');
+body{
+   
+   margin: 0;
+   padding: 0;
+   min-width: 100%;
+   overflow-x: hidden;
+}
+fieldset{
+   padding: 6;
+  width: 28em;
+  height: 17em;
+  border: 4px solid rgb(26, 25, 25);
+  margin: 7%;
+  zoom: 130%;
+  
+}
+header{
+   background-color:red;
+   color: white;
+   height: 10%;
+   font-style: oblique;
+   font-size: 120%;
+   text-align: center;
+   margin-top: 0.5px;
+   font-stretch: extra-expanded;   
+}
+pre{
+   margin: 0;
+   padding: 0;
+   font-size: 20px;
+}
+main{
+   margin-left: 3%;
+   font-size: 70%;
+   font-weight: 600;
+   
+}
+footer{
+  padding-top: 7px;
+   margin-left: 2%;
+}
+h4{
+   margin: 4px;
+}
+input{
+   font-family: 'Waterfall', cursive;
+   font-size: 170%;
+   font-weight:bolder;
+   text-align: center;
+   border-top: 0px;
+   border-right: 0px;
+   border-left: 0px;
+   border-color:  black;
+   padding: 0px 0px 0px 0px;
+   overflow-y: visible; 
+}
+#fname{
+   width: 40%;
+}
+#lname{
+   margin-left: 10%;
+   width: 45%;
+}
+#Lname{
+   margin-left: 38%;
+}
+#add{
+width: 90%;
+}
+#city{
+   width: 22%;
+}
+#state{
+   width: 18%;
+   margin-left: 5%;
+}
+#zip{
+   width: 26%;
+   margin-left: 8%;
+}
+#State{
+   margin-left: 22%;
+}
+#Zip{
+   margin-left: 21%;
+}
